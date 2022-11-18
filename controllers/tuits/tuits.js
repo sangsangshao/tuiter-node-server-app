@@ -13,7 +13,7 @@ export default [
     "disliked": false,
     "likes": 2345,
     "dislikes": 134,
-    "comments": 1212,
+    "comments": 121,
     "replies": 123,
     "retuits": 432
   },
@@ -31,7 +31,7 @@ export default [
     "disliked": false,
     "likes": 2345,
     "dislikes": 234,
-    "comments": 1333,
+    "comments": 133,
     "replies": 123,
     "retuits": 432
   },
