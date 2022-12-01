@@ -9,7 +9,7 @@ const createTuit = async (req, res) => {
   // newTuit._id = (new Date()).getTime()+'';
   newTuit.topic = "Nasa";
   newTuit.userName = "NASA";
-  newTuit.time = "Now";
+  newTuit.time = "now";
   newTuit.likes = 0;
   newTuit.dislikes = 0;
   newTuit.handle = "nasa";
